@@ -1,4 +1,5 @@
-# CS771-Project-23-24-II
+# CS771_Intro_to_ML_CAR_PUF
+
 
 In this project, we were given a XOR-PUFs with 3 PUFs but each PUF had 8 multiplexers i.e. the challenges were 8-bits long. Our task was to create a new feature vector from the 8-bit challenge so that a linear model
 on that feature vector could predict the response. 
